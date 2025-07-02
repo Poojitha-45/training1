@@ -1,1 +1,2 @@
-print("welcome to come.py");
+print("welcome to come.py")
+print("hello")
